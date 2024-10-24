@@ -23,7 +23,7 @@ The labels are stored in JSON files corresponding to each image, using a standar
 ## Results
 
 ### Detection Performance
-- **Intersection over Union (IoU)**: > 0.7
+- **Intersection over Union (IoU)**: > 0.70
 - **Model Accuracy**: 99%
 - **Object Detection**: Successfully identifies and distinguishes between Staghorn and Elkhorn corals
 
